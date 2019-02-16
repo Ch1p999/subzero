@@ -11,6 +11,8 @@
 
   <modules>
     <module>proto</module>
+    <module>shared</module>
+    <module>gui</module>
   </modules>
 
   <properties>
