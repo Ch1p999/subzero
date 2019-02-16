@@ -6,7 +6,6 @@ import com.ncipher.nfast.NFException;
 import com.squareup.subzero.InternalCommandConnector;
 import com.squareup.subzero.ncipher.NCipher;
 import com.squareup.subzero.SubzeroGui;
-import com.squareup.subzero.shared.SubzeroUtils;
 import com.squareup.subzero.wallet.WalletLoader;
 import com.squareup.protos.subzero.service.Internal.InternalCommandRequest;
 import com.squareup.protos.subzero.service.Internal.InternalCommandResponse;

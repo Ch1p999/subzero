@@ -12,6 +12,7 @@
   <modules>
     <module>proto</module>
     <module>shared</module>
+    <module>fake_ncipher</module>
     <module>gui</module>
   </modules>
 
