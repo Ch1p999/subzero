@@ -6,10 +6,10 @@ import java.security.Provider;
 public class nCipherKM extends Provider {
   public nCipherKM() {
     super("fake-nCipherKM", 0, "fake-nCiperKM");
-    throw new RuntimeException();
+    throw new RuntimeException("fake nCipherKM");
   }
 
   public static SecurityWorld getSW() {
-    throw new RuntimeException();
+    throw new RuntimeException("fake nCipherKM");
   }
 }
